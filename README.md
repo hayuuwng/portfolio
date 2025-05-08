@@ -534,6 +534,11 @@ public class PlayerController : MonoBehaviour
 ```
 
 
+대쉬
+
+![2025-05-09 00-03-07(1)](https://github.com/user-attachments/assets/d070bc5f-c692-49ef-9599-9d3c44e3c6a6)
+
+
 
 
 
