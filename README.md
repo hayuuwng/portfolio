@@ -36,10 +36,6 @@
 ![Image](https://github.com/user-attachments/assets/a2bed5a9-446c-4a35-89e9-7f5d7a68a059)
 ![그레이브](https://github.com/user-attachments/assets/76ba8303-54e9-422e-9961-0b189ad21eef)
 
-그림 
-
-![마왕](https://github.com/user-attachments/assets/e3bda805-2d88-4f01-8377-76dd23465630)
-
 
 
 
