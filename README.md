@@ -27,7 +27,7 @@
 
 ![Image](https://github.com/user-attachments/assets/b203d6df-537c-4521-9ca4-f43396efa6d0)
 
-소설 필체 분석
+소설 필체 분석(시나리오 작성 연구)
 
 ![Image](https://github.com/user-attachments/assets/a34606cb-7ca7-420b-b620-c67d4ad554a2)
 
@@ -53,11 +53,11 @@
 
 ![Image](https://github.com/user-attachments/assets/e8d9e574-d13c-4e12-9f4e-d81cee71023a)
 ![Image](https://github.com/user-attachments/assets/09b09004-0ebb-4f2d-9e12-9cc9df4f60bb)
-### 일상속에서, 개발 환경에서도 메타인지를 활용하기 위해 노력을 기울이고 있고, 이런 식으로 문제를 해결 할 때 성취감을 느꼈습니다. <br>하지만 어떠한 부분에서 실수를 했고 잘못했는 지를 제시해주는 사람이 없기에 부족한 경험과 지식으로 인하여 그 원인이 잘 보이지 않을 경우에는 많은 시행착오를 겪습니다.
+### 일상속에서, 개발 환경에서도 메타인지를 활용하기 위해 노력을 기울이고 있고, 이런 식으로 문제를 해결 할 때 성취감을 느꼈습니다. 
 ![Image](https://github.com/user-attachments/assets/1b73c23e-e43b-4acf-af65-7905686f65ed)
 
 처음 C언어를 배웠을때
-### 저는 그렇기에 다양한 실무 과정을 통한 전문적인 학습 방식과 지식에 대해 배우고자 이 학교에 입학하는 것을 희망합니다. 
+
 
 
 # 프로젝트 
@@ -528,9 +528,9 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
+`구조체`로 더 편리하게 구현가능
 
-
-대쉬
+대쉬구현
 
 ![2025-05-09 00-03-07(1)](https://github.com/user-attachments/assets/d070bc5f-c692-49ef-9599-9d3c44e3c6a6)
 
